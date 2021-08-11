@@ -1,0 +1,26 @@
+{
+  "name": "namebase-orderbook-coding-challenge",
+  "version": "1.0.0",
+  "description": "Namebase Orderbook Coding Challenge",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Raphael Sani",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "coveralls": "^3.1.1",
+    "mocha": "^9.0.3"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "keywords": [
+    "Orderbook"
+  ],
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
