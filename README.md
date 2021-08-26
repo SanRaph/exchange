@@ -30,7 +30,7 @@ When you submit your program, be sure to **describe any suboptimal design and im
 Prioritize 1) being feature complete, 2) including enough tests to convince yourself you don't have any big bugs, and 3) writing clean code that is ready for change. Final tip: be cautious about overthinking your solution. Our reference implementation is just 70 SLOCs (excluding tests).
 
 # Submission
-Send me (ibravoh149@gmail.com) a zip file with your source code (or a link to a github repo) with instructions on how to run your tests.
+Send me a zip file with your source code (or a link to a github repo) with instructions on how to run your tests.
 
 # Technical specification
 The `./lib/index.js` file should export a single class that implements the following functions:
